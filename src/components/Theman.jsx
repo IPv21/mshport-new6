@@ -19,7 +19,7 @@ const Theman = () => {
             </div>
 
             <div>
-              <p>I was born in California, USA, and raised in Lancaster, Pennsylvania. Reflecting on my career journey, it has been filled with exciting and unexpected turns. My experience in the culinary arts has been diverse, from working as a sous chef at a prestigious 5-star restaurant to training various team members. My passion for the culinary sector remains strong. However, driven by my love for computers, design, and problem-solving, I decided to switch career paths to web development. After researching various courses, I enrolled in the UPenn LPS Coding Bootcamp. Following a few years in Philadelphia post-COVID lockdowns, I now reside in Colombo, Sri Lanka, eager to see where this new journey will take me.</p>  
+              <p>I was born in California, USA, raised in Lancaster, Pennsylvania, and settled in Philadelphia after the COVID-19 lockdowns. Reflecting on my career journey, it has been filled with exciting and unexpected turns. My experience in the culinary arts has been diverse, from working as a sous chef at a prestigious 5-star restaurant to training various team members. My passion for the culinary sector remains strong. However, driven by my love for computers, design, and problem-solving, I decided to switch career paths to web development. After researching various courses, I enrolled in the UPenn LPS Coding Bootcamp. Having spent time honing my skills through a few small projects and freelance work, I'm ready to take another step in my career.</p>  
 
               <p>A dedicated team member with a passion for learning, I'm looking for a
                 company that will allow me to learn and grow as a developer. An avid
